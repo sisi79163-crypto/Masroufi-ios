@@ -20,7 +20,7 @@ targets:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.mustafa.masroufi
         PRODUCT_NAME: Masroufi
-        INFOPLIST_KEY_CFBundleDisplayName: مصروفي
+        INFOPLIST_KEY_CFBundleDisplayName: masroifi
         INFOPLIST_KEY_NSFaceIDUsageDescription: يستخدم مصروفي Face ID لحماية بياناتك المالية.
         INFOPLIST_KEY_UIApplicationSceneManifest_Generation: YES
         INFOPLIST_KEY_UILaunchScreen_Generation: YES
